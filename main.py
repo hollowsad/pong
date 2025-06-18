@@ -17,7 +17,7 @@ SCENE = pygame.display.set_mode(
     vsync=True                         # Вертикальная синхронизация.
 )
 # Заголовок окна СЦЕНА:
-pygame.display.set_caption('pygame')
+pygame.display.set_caption('asfasaf')
 logo = pygame.image.load('7fc0364fbb9f319b5d4cb4bc104eb7d2.jpg')
 pygame.display.set_icon(logo)
 # Блок для загрузки объектов:
